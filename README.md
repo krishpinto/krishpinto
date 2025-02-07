@@ -1,12 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1534922626/6837/hacker.gif?1534922626" width="30"/> Hello, welcome to my GitHub!</h1>
 
-<h3>I'm [Your Name], a curious developer and problem-solver.</h3>
+<h3>I'm Krish, a curious developer and problem-solver.</h3>
 
-<p align="center">
-  <a href="https://www.yourportfolio.com/">
-    <img width="120" src="https://www.yourlogo.com/logo.png" alt="logo" />
-  </a>
-</p>
+
 
 <p>I'm on a mission to make the web more interactive, engaging, and accessible! I began my coding journey with a passion for understanding how things work behind the scenes. This led me to web development, where I love crafting dynamic user experiences with the latest tools and technologies. Currently, I'm diving deeper into full-stack development, exploring new challenges, and contributing to open-source projects along the way!</p>
 
@@ -41,4 +37,4 @@
 <h4>Let’s Connect!</h4>
 <p>If you're interested in collaborating or just want to chat about tech, feel free to reach out! I'm always open to new ideas and connections.</p>
 
-<p>Follow me on <a href="https://www.instagram.com/yourusername/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="20" height="20"/> Instagram</a>!</p>
+<p>Follow me on <a href="https://www.instagram.com/krishpint0" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="20" height="20"/> Instagram</a>!</p>
