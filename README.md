@@ -1,6 +1,8 @@
-<h1><img src="https://media.giphy.com/media/3o6Zt9kAlklroYdbQ4/giphy.gif" width="60"/> Hello, welcome to my GitHub!</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" style="width: 85%; height: 85%;" >
+</p>
 
-<h3>I'm Krish, a curious developer and problem-solver.</h3>
+<h1 align="center">I'm Krish, a curious developer and problem-solver.</h3>
 
 <p>I'm on a mission to make the web more interactive, engaging, and accessible! I began my coding journey with a passion for understanding how things work behind the scenes. This led me to web development, where I love crafting dynamic user experiences with the latest tools and technologies. Currently, I'm diving deeper into full-stack development, exploring new challenges, and contributing to open-source projects along the way!</p>
 
@@ -27,6 +29,7 @@
 <p align="center">
   <b>Here’s what I use to build amazing things!</b>
 </p>
+<br>
 
 <h4>Favorite Quote</h4>
 
@@ -35,4 +38,10 @@
 <h4>Let’s Connect!</h4>
 <p>If you're interested in collaborating or just want to chat about tech, feel free to reach out! I'm always open to new ideas and connections.</p>
 
-<p>Follow me on <a href="https://www.instagram.com/krishpint0" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="20" height="20"/> Instagram</a>!</p>
+<p>Follow me on <a href="https://www.instagram.com/krishpint0" target="_blank"><img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/></a>!</p>
+
+
+<br>
+
+<!-- footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
