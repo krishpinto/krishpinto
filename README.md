@@ -40,7 +40,7 @@
 <h3>GitHub Contributions</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishpint0&show_icons=true&count_private=true&theme=radical" alt="Krish's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=krishpinto&show_icons=true&count_private=true&theme=radical" alt="Krish's GitHub Stats"/>
 </p>
 
 <p align="center">
