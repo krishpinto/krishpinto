@@ -1,4 +1,4 @@
-<h1><img src="https://media.giphy.com/media/3o6Zt9kAlklroYdbQ4/giphy.gif" width="30"/> Hello, welcome to my GitHub!</h1>
+<h1><img src="https://media.giphy.com/media/3o6Zt9kAlklroYdbQ4/giphy.gif" width="60"/> Hello, welcome to my GitHub!</h1>
 
 <h3>I'm Krish, a curious developer and problem-solver.</h3>
 
