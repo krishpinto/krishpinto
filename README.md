@@ -2,8 +2,6 @@
 
 <h3>I'm Krish, a curious developer and problem-solver.</h3>
 
-
-
 <p>I'm on a mission to make the web more interactive, engaging, and accessible! I began my coding journey with a passion for understanding how things work behind the scenes. This led me to web development, where I love crafting dynamic user experiences with the latest tools and technologies. Currently, I'm diving deeper into full-stack development, exploring new challenges, and contributing to open-source projects along the way!</p>
 
 <h4>Skills & Technologies</h4>
@@ -38,3 +36,18 @@
 <p>If you're interested in collaborating or just want to chat about tech, feel free to reach out! I'm always open to new ideas and connections.</p>
 
 <p>Follow me on <a href="https://www.instagram.com/krishpint0" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="20" height="20"/> Instagram</a>!</p>
+
+<h3>GitHub Contributions</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishpint0&show_icons=true&count_private=true&theme=radical" alt="Krish's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishpint0&theme=radical" alt="Krish's GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/krishpint0/krishpint0/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
