@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1534922626/6837/hacker.gif?1534922626" width="30"/> Hello, welcome to my GitHub!</h1>
+<h1><img src="https://media.giphy.com/media/3o6Zt9kAlklroYdbQ4/giphy.gif" width="30"/> Hello, welcome to my GitHub!</h1>
 
 <h3>I'm Krish, a curious developer and problem-solver.</h3>
 
@@ -36,18 +36,3 @@
 <p>If you're interested in collaborating or just want to chat about tech, feel free to reach out! I'm always open to new ideas and connections.</p>
 
 <p>Follow me on <a href="https://www.instagram.com/krishpint0" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="20" height="20"/> Instagram</a>!</p>
-
-<h3>GitHub Contributions</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishpinto&show_icons=true&count_private=true&theme=radical" alt="Krish's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishpint0&theme=radical" alt="Krish's GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/krishpint0/krishpint0/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
