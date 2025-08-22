@@ -8,23 +8,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3800&pause=800&color=38F2A0&center=true&vCenter=true&width=700&height=100&lines=Passionate+Full-Stack+Developer;Company-Level+SaaS+Applications;AI%2FML+Integration+Specialist;Always+Building%2C+Always+Innovating" alt="Typing Animation"/>
 </div>
 
-<!-- Social Links -->
-<div align="center" style="margin-top: 25px; margin-bottom: 25px;">
-  <a href="https://www.linkedin.com/in/krish-pinto-982ab41ba" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/krishpint0/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://x.com/krishpint0" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-</div>
+
 
 <br>
 
 <!-- About Me Section -->
-<h2 align="center">🚀 About Me</h2>
+<h1 align="center">About Me</h1>
 
 <p align="center"><em>Building sleek, company-level SaaS applications that solve real-world problems</em></p>
 
@@ -33,7 +22,7 @@ Welcome to my corner of the web! I'm **Krish**, a developer who thrives on turni
 When I'm not deep in code, you'll find me designing the next big thing or learning something completely new. I believe in building not just applications, but entire ecosystems that make a difference. Always open for collaboration, coffee chats, and turning wild ideas into working solutions!
 
 <!-- Tech Stack Section -->
-<h2 align="center">🛠️ My Tech Stack & Tools 🛠️</h2>
+<h1 align="center">My Tech Stack & Tools</h1>
 <br>
 <table align="center" width="100%">
   <!-- Row 1 -->
@@ -79,7 +68,7 @@ When I'm not deep in code, you'll find me designing the next big thing or learni
 <br>
 
 <!-- Featured Projects Section -->
-<h2 align="center">🚀 Featured Projects Showcase 🚀</h2>
+<h1 align="center">Featured Projects Showcase</h1>
 <br>
 <p align="center">A selection of projects that highlight my passion for building innovative SaaS applications</p>
 <br>
@@ -148,21 +137,42 @@ When I'm not deep in code, you'll find me designing the next big thing or learni
   <img height="165" src="https://streak-stats.demolab.com?user=krishpinto&hide_border=true&background=262626&stroke=FFF8E1&ring=E67E22&fire=E74C3C&currStreakNum=FFF8E1&sideNums=FFF8E1&currStreakLabel=FFF8E1&sideLabels=FFF8E1&dates=FFF8E1" />
 </div>
 
-<!-- Coding Animation -->
+<!-- Connect to My Socials Section -->
+<h1 align="center">Connect With Me</h1>
+<br>
+
 <div align="center" style="margin: 40px 0;">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" width="400"/>
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="middle" align="center">
+        <div style="padding: 30px; border: 2px solid #333; border-radius: 15px; background: #0d1117;">
+          <p style="margin: 20px 0; font-size: 18px;">Let's stay connected across platforms!</p>
+          <div align="center">
+            <a href="https://www.linkedin.com/in/krish-pinto-982ab41ba" target="_blank" style="margin: 0 15px;">
+              <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"/>
+            </a>
+            <a href="https://www.instagram.com/krishpint0/" target="_blank" style="margin: 0 15px;">
+              <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50"/>
+            </a>
+            <a href="https://x.com/krishpint0" target="_blank" style="margin: 0 15px;">
+              <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="50"/>
+            </a>
+          </div>
+        </div>
+      </td>
+      <td width="50%" valign="middle" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" width="400"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Connect Section -->
-<h3 align="center">🤝 Let's Build Something Amazing Together!</h3>
+<h3 align="center">Let's Build Something Amazing Together</h3>
 
 <p align="center">
-Got an exciting project in mind? Want to discuss the latest in tech? Or just feel like having a good conversation over coffee? I'm always up for connecting with fellow developers, entrepreneurs, and dreamers. Let's turn those wild ideas into reality!
+Ready to collaborate on your next project? Let's connect and turn ideas into reality.
 </p>
-
-<div align="center">
-  <p><b>🚀 Always exploring, always building, always innovating!</b></p>
-</div>
 
 <br>
 
@@ -170,5 +180,5 @@ Got an exciting project in mind? Want to discuss the latest in tech? Or just fee
 
 <!-- Footer Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!%20Let's%20connect%20and%20build%20the%20future%20together%20🚀&fontSize=20&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Footer Banner"/>
 </div>
