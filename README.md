@@ -1,107 +1,174 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" style="width: 85%; height: 85%;" >
-</p>
+<!-- Animated Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=175&section=header&text=Hey%20there!%20I'm%20Krish%20🐼&fontSize=45&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
+</div>
 
-<h1 align="center">Hey there! I'm Krish, a passionate full-stack developer 🐼</h1>
+<!-- Dynamic Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3800&pause=800&color=38F2A0&center=true&vCenter=true&width=700&height=100&lines=Passionate+Full-Stack+Developer;Company-Level+SaaS+Applications;AI%2FML+Integration+Specialist;Always+Building%2C+Always+Innovating" alt="Typing Animation"/>
+</div>
 
-<p align="center">
-  <em>Building sleek, company-level SaaS applications that solve real-world problems</em>
-</p>
-
-<p>Welcome to my corner of the web! I'm **Krish**, a developer who thrives on turning innovative ideas into reality. I spend my days crafting seamless user experiences and robust backend systems. Whether it's exploring cutting-edge frameworks, diving into AI/ML integrations, or just vibing to some good music and anime, I'm always pushing boundaries and staying ahead of the curve.</p>
-
-<p>When I'm not deep in code, you'll find me designing the next big thing or learning something completely new. I believe in building not just applications, but entire ecosystems that make a difference. Always open for collaboration, coffee chats, and turning wild ideas into working solutions!</p>
-
-<br>
-
-<h3 align="center">🛠️ Technologies & Tools I Love Working With</h3>
-
-<h4>🎨 Frontend Development</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Shadcn%20UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI"/>
-  <img src="https://img.shields.io/badge/Magic%20UI-FF6B6B?style=for-the-badge&logo=magic&logoColor=white" alt="Magic UI"/>
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
-</p>
-
-<h4>⚡ Backend & Server</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</p>
-
-<h4>🧠 AI & Machine Learning</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow.js"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Claude%20AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/Crawl4AI-4285F4?style=for-the-badge&logo=crawl4ai&logoColor=white" alt="Crawl4AI"/>
-</p>
-
-<h4>🗄️ Databases & Storage</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
-  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle"/>
-</p>
-
-<h4>☁️ Cloud & Deployment</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger"/>
-</p>
-
-<h4>🔧 Development Tools</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia"/>
-</p>
-
-<br>
-
-<p align="center">
-  <b>🚀 Always exploring, always building, always innovating!</b>
-</p>
-
-<br>
-
-<h4>💭 Words That Drive Me</h4>
-
-> *"Innovation distinguishes between a leader and a follower."* ~ Steve Jobs
-
-<br>
-
-<h4>🤝 Let's Build Something Amazing Together!</h4>
-
-<p>Got an exciting project in mind? Want to discuss the latest in tech? Or just feel like having a good conversation over coffee? I'm always up for connecting with fellow developers, entrepreneurs, and dreamers. Let's turn those wild ideas into reality!</p>
-
-<p align="center">
+<!-- Social Links -->
+<div align="center" style="margin-top: 25px; margin-bottom: 25px;">
   <a href="https://www.linkedin.com/in/krish-pinto-982ab41ba" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/krishpint0/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/krishpint0" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-</p>
+</div>
 
 <br>
 
-<!-- footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+<!-- About Me Section -->
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center"><em>Building sleek, company-level SaaS applications that solve real-world problems</em></p>
+
+Welcome to my corner of the web! I'm **Krish**, a developer who thrives on turning innovative ideas into reality. I spend my days crafting seamless user experiences and robust backend systems. Whether it's exploring cutting-edge frameworks, diving into AI/ML integrations, or just vibing to some good music and anime, I'm always pushing boundaries and staying ahead of the curve.
+
+When I'm not deep in code, you'll find me designing the next big thing or learning something completely new. I believe in building not just applications, but entire ecosystems that make a difference. Always open for collaboration, coffee chats, and turning wild ideas into working solutions!
+
+<!-- Tech Stack Section -->
+<h2 align="center">🛠️ My Tech Stack & Tools 🛠️</h2>
+<br>
+<table align="center" width="100%">
+  <!-- Row 1 -->
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h4><strong>🎨 Frontend & Mobile</strong></h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=tailwind,sass,threejs,redux,vite" />
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h4><strong>⚡ Backend & Databases</strong></h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nodejs,python,express,fastapi" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" />
+      </p>
+    </td>
+  </tr>
+  <!-- Row 2 -->
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h4><strong>☁️ Cloud & Infrastructure</strong></h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,firebase" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=netlify,docker" />
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h4><strong>🔧 DevOps & Tooling</strong></h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=githubactions,postman" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Featured Projects Section -->
+<h2 align="center">🚀 Featured Projects Showcase 🚀</h2>
+<br>
+<p align="center">A selection of projects that highlight my passion for building innovative SaaS applications</p>
+<br>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌟 [Lumeo](https://lumeo-sooty.vercel.app/) [(Live Demo)](https://lumeo-sooty.vercel.app/)
+
+**Smart Events with Precision** - Effortlessly streamline your event planning with Lumeo. Organize and track all your events seamlessly in one place.
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,supabase" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 [Resume AI](https://resume-ai-phi.vercel.app/) [(Live Demo)](https://resume-ai-phi.vercel.app/)
+
+**Build Your Professional Resume Effortlessly** - Create stunning resumes or enhance existing ones with AI-powered tools. Stand out to employers with ease.
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,firebase" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✅ [TaskMaster](https://tasmaster-v3.vercel.app/) [(Live Demo)](https://tasmaster-v3.vercel.app/)
+
+**Master Your Tasks, Boost Productivity** - A powerful todo list application that helps you stay organized with seamless task management. Take control and achieve more.
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,firebase,javascript,tailwind" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 [Portfolio](https://github.com/krishpinto)
+
+**Work In Progress** - Building an innovative personal portfolio showcasing modern web development techniques and interactive experiences.
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,threejs,typescript" />
+</p>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+---
+
+<!-- Stats Section -->
+<div align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 30px 0">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=krishpinto&show_icons=true&hide_border=true&title_color=E74C3C&icon_color=E67E22&text_color=FFF8E1&bg_color=262626" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishpinto&layout=compact&hide_border=true&title_color=E74C3C&text_color=FFF8E1&bg_color=262626" />
+  <img height="165" src="https://streak-stats.demolab.com?user=krishpinto&hide_border=true&background=262626&stroke=FFF8E1&ring=E67E22&fire=E74C3C&currStreakNum=FFF8E1&sideNums=FFF8E1&currStreakLabel=FFF8E1&sideLabels=FFF8E1&dates=FFF8E1" />
+</div>
+
+<!-- Coding Animation -->
+<div align="center" style="margin: 40px 0;">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" width="400"/>
+</div>
+
+<!-- Connect Section -->
+<h3 align="center">🤝 Let's Build Something Amazing Together!</h3>
+
+<p align="center">
+Got an exciting project in mind? Want to discuss the latest in tech? Or just feel like having a good conversation over coffee? I'm always up for connecting with fellow developers, entrepreneurs, and dreamers. Let's turn those wild ideas into reality!
+</p>
+
+<div align="center">
+  <p><b>🚀 Always exploring, always building, always innovating!</b></p>
+</div>
+
+<br>
+
+---
+
+<!-- Footer Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!%20Let's%20connect%20and%20build%20the%20future%20together%20🚀&fontSize=20&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Footer Banner"/>
+</div>
