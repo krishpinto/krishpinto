@@ -73,12 +73,18 @@ When I'm not deep in code, you'll find me designing the next big thing or learni
 <p align="center">A selection of projects that highlight my passion for building innovative SaaS applications</p>
 <br>
 
+<!-- Featured Projects Section -->
+<h1 align="center">Featured Projects Showcase</h1>
+<br>
+<p align="center">A selection of projects that highlight my passion for building innovative SaaS applications</p>
+<br>
+
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌟 [Lumeo](https://lumeo-sooty.vercel.app/) [(Live Demo)](https://lumeo-sooty.vercel.app/)
+### 🌟 [Lumeo](https://lumeo.krishpinto.co.in/) [(Live Demo)](https://lumeo.krishpinto.co.in/)
 
 **Smart Events with Precision** - Effortlessly streamline your event planning with Lumeo. Organize and track all your events seamlessly in one place.
 
@@ -89,12 +95,12 @@ When I'm not deep in code, you'll find me designing the next big thing or learni
 </td>
 <td width="50%" valign="top">
 
-### 📄 [Resume AI](https://resume-ai-phi.vercel.app/) [(Live Demo)](https://resume-ai-phi.vercel.app/)
+### 🤖 [WidgetForge](https://widgetforge.krishpinto.co.in/) [(Live Demo)](https://widgetforge.krishpinto.co.in/)
 
-**Build Your Professional Resume Effortlessly** - Create stunning resumes or enhance existing ones with AI-powered tools. Stand out to employers with ease.
+**Embeddable AI Chatbots in 60 Seconds** - Paste your URL, bring your own API key, pick a model, and get a single script tag. Supports OpenAI, Gemini, Anthropic, and Grok.
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,firebase" />
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,supabase" />
 </p>
 
 </td>
@@ -102,23 +108,23 @@ When I'm not deep in code, you'll find me designing the next big thing or learni
 <tr>
 <td width="50%" valign="top">
 
-### ✅ [TaskMaster](https://tasmaster-v3.vercel.app/) [(Live Demo)](https://tasmaster-v3.vercel.app/)
+### 👤 [Portfolio](https://www.krishpinto.co.in/) [(Live Demo)](https://www.krishpinto.co.in/)
 
-**Master Your Tasks, Boost Productivity** - A powerful todo list application that helps you stay organized with seamless task management. Take control and achieve more.
+**Personal Portfolio** - Showcasing my work, projects, and experience as a full-stack developer.
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,firebase,javascript,tailwind" />
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,shadcn" />
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎨 [Portfolio](https://github.com/krishpinto)
+### 🎨 [Next Project]
 
-**Work In Progress** - Building an innovative personal portfolio showcasing modern web development techniques and interactive experiences.
+**Work In Progress** - Something new is cooking.
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,tailwind,threejs,typescript" />
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,typescript" />
 </p>
 
 </td>
