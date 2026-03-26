@@ -89,7 +89,7 @@ When I'm not deep in code, you'll find me designing the next big thing or learni
 **Smart Events with Precision** - Effortlessly streamline your event planning with Lumeo. Organize and track all your events seamlessly in one place.
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,supabase" />
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,firebase" />
 </p>
 
 </td>
