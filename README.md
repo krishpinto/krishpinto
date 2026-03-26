@@ -113,7 +113,7 @@ When I'm not deep in code, you'll find me designing the next big thing or learni
 **Personal Portfolio** - Showcasing my work, projects, and experience as a full-stack developer.
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,shadcn" />
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,shadcn,cloudflare" />
 </p>
 
 </td>
