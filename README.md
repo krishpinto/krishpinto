@@ -1,33 +1,44 @@
-<div align="center">
+# hi, i'm krish
 
-# Krish Pinto
-
-CE @ FCRIT · Vice Chairperson, AIDL Club · Mumbai
-
-*AI does the work. I take the credit.*
-
-</div>
+```
+CE undergrad · Full-Stack · Cloud Systems · I build things and ship them.
+```
 
 ---
 
-## About
+I build full-stack products, on-device ML systems, and developer tooling. Won Hack4Innovation against 1,700+ participants with Sentinel — a zero-cloud Android scam detector. Currently shipping LetterStack, an email marketing platform with live client interest.
 
-- Full-Stack & AI Engineer with hands-on experience building enterprise platforms, on-device ML systems, cloud-native infrastructure, and developer tooling
-- Creator of [Sentinel](https://github.com/krishpinto/Sentinel) — on-device Android scam detection, sub-200ms ML inference, no cloud dependency — **1st Place, Hack4Innovation VesIT (1,700+ participants)**
-- Author of [artemis-cli](https://github.com/krishpinto/artemis) — Kubernetes-native infrastructure CLI — **1,500+ npm downloads**
-- Vice Chairperson, AIDL Club @ FCRIT · Co-organized HackQuinox 2.0 (800+ participants, mentored 300+ students)
+**stack**
 
-<!-- Incoming SDE Intern @ Infinity Pool (July 2026) -->
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,tailwind,nodejs,express,fastapi,postgres,mongodb,redis,docker,kubernetes,aws,gcp,git,githubactions" />
 
 ---
 
-## Stack
+**selected builds**
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,tailwind,threejs,nodejs,express,fastapi,postgres,mongodb,redis,docker,kubernetes,aws,gcp,git,githubactions" />
+```
+→ Sentinel       on-device Android scam detect · sub-200ms inference · no cloud · 1st Place Hack4Innovation (1,700+ participants)
+→ artemis-cli    Kubernetes-native infra CLI · spins up DB clusters from declarative manifests · 1,500+ npm downloads
+→ WidgetForge    embeddable AI chatbot generator · BYOK · Shadow DOM isolation · OpenAI · Gemini · Anthropic · Grok
+→ Lumeo          smart event planning platform · full-stack · real-time sync
+→ LetterStack    email marketing & lead gen platform · live client interest via CIBA · in active development
+```
+
+→ more on [LinkedIn](https://www.linkedin.com/in/krish-pinto/)
+
 ---
 
-<div align="center">
+**work**
 
-[krishpinto.co.in](https://www.krishpinto.co.in) · [LinkedIn](https://www.linkedin.com/in/krish-pinto-982ab41ba) · [X](https://x.com/krishpint0)
+- Junior Software Engineer @ SVIK Infotech — full-stack enterprise platforms
+- SDE Intern @ BOBST India — Power Apps · Power Automate · Power BI · enterprise workflow systems
+- Vice Chairperson, AIDL Club @ FCRIT — co-organized HackQuinox 2.0 (800+ participants, mentored 300+ students)
+- ML Intern @ FCRIT — predictive maintenance for industrial pumps
+<!-- - Incoming SDE Intern @ Infinity Pool · July 2026 -->
 
-</div>
+---
+
+```
+# open to SDE / full-stack / cloud roles and interesting problems
+> krishpinto123@gmail.com · linkedin.com/in/krish-pinto · x.com/krishpint0
+```
