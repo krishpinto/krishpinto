@@ -17,7 +17,7 @@ I build full-stack products, on-device ML systems, and developer tooling. Won Ha
 **selected builds**
 
 ```
-→ Sentinel       on-device Android scam detect · sub-200ms inference · no cloud · 1st Place Hack4Innovation (1,700+ participants)
+→ Sentinel       on-device scam detection · sub-200ms inference · no cloud · 1st Place Hack4Innovation (1,700+ participants)
 → artemis-cli    Kubernetes-native infra CLI · spins up DB clusters from declarative manifests · 1,500+ npm downloads
 → WidgetForge    embeddable AI chatbot generator · BYOK · Shadow DOM isolation · OpenAI · Gemini · Anthropic · Grok
 → Lumeo          smart event planning platform · full-stack · real-time sync
