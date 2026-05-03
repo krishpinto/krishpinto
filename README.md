@@ -1,190 +1,33 @@
-<!-- Animated Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=175&section=header&text=Hey%20there!%20I'm%20Krish%20🐼&fontSize=45&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
+
+# Krish Pinto
+
+CE @ FCRIT · Vice Chairperson, AIDL Club · Mumbai
+
+*AI does the work. I take the credit.*
+
 </div>
-
-<!-- Dynamic Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3800&pause=800&color=38F2A0&center=true&vCenter=true&width=700&height=100&lines=Passionate+Full-Stack+Developer;Company-Level+SaaS+Applications;AI%2FML+Integration+Specialist;Always+Building%2C+Always+Innovating" alt="Typing Animation"/>
-</div>
-
-
-
-<br>
-
-<!-- About Me Section -->
-<h1 align="center">About Me</h1>
-
-<p align="center"><em>Building sleek, company-level SaaS applications that solve real-world problems</em></p>
-
-Welcome to my corner of the web! I'm **Krish**, a developer who thrives on turning innovative ideas into reality. I spend my days crafting seamless user experiences and robust backend systems. Whether it's exploring cutting-edge frameworks, diving into AI/ML integrations, or just vibing to some good music and anime, I'm always pushing boundaries and staying ahead of the curve.
-
-When I'm not deep in code, you'll find me designing the next big thing or learning something completely new. I believe in building not just applications, but entire ecosystems that make a difference. Always open for collaboration, coffee chats, and turning wild ideas into working solutions!
-
-<!-- Tech Stack Section -->
-<h1 align="center">My Tech Stack & Tools</h1>
-<br>
-<table align="center" width="100%">
-  <!-- Row 1 -->
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h4><strong>🎨 Frontend & Mobile</strong></h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=tailwind,sass,threejs,redux,vite" />
-      </p>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h4><strong>⚡ Backend & Databases</strong></h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=nodejs,python,express,fastapi" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" />
-      </p>
-    </td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h4><strong>☁️ Cloud & Infrastructure</strong></h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,firebase" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=netlify,docker" />
-      </p>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h4><strong>🔧 DevOps & Tooling</strong></h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=githubactions,postman" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- Featured Projects Section -->
-<h1 align="center">Featured Projects Showcase</h1>
-<br>
-<p align="center">A selection of projects that highlight my passion for building innovative SaaS applications</p>
-<br>
-
-<!-- Featured Projects Section -->
-<h1 align="center">Featured Projects Showcase</h1>
-<br>
-<p align="center">A selection of projects that highlight my passion for building innovative SaaS applications</p>
-<br>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌟 [Lumeo](https://lumeo.krishpinto.co.in/) [(Live Demo)](https://lumeo.krishpinto.co.in/)
-
-**Smart Events with Precision** - Effortlessly streamline your event planning with Lumeo. Organize and track all your events seamlessly in one place.
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,firebase" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 [WidgetForge](https://widgetforge.krishpinto.co.in/) [(Live Demo)](https://widgetforge.krishpinto.co.in/)
-
-**Embeddable AI Chatbots in 60 Seconds** - Paste your URL, bring your own API key, pick a model, and get a single script tag. Supports OpenAI, Gemini, Anthropic, and Grok.
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,supabase" />
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 👤 [Portfolio](https://www.krishpinto.co.in/) [(Live Demo)](https://www.krishpinto.co.in/)
-
-**Personal Portfolio** - Showcasing my work, projects, and experience as a full-stack developer.
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,shadcn,cloudflare" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 [Next Project]
-
-**Work In Progress** - Something new is cooking.
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,tailwind,typescript" />
-</p>
-
-</td>
-</tr>
-</table>
-</div>
-
-<br>
 
 ---
 
-<!-- Stats Section -->
-<div align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 30px 0">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=krishpinto&show_icons=true&hide_border=true&title_color=E74C3C&icon_color=E67E22&text_color=FFF8E1&bg_color=262626" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishpinto&layout=compact&hide_border=true&title_color=E74C3C&text_color=FFF8E1&bg_color=262626" />
-  <img height="165" src="https://streak-stats.demolab.com?user=krishpinto&hide_border=true&background=262626&stroke=FFF8E1&ring=E67E22&fire=E74C3C&currStreakNum=FFF8E1&sideNums=FFF8E1&currStreakLabel=FFF8E1&sideLabels=FFF8E1&dates=FFF8E1" />
-</div>
+## About
 
-<!-- Connect to My Socials Section -->
-<h1 align="center">Connect With Me</h1>
-<br>
+- Full-Stack & AI Engineer with hands-on experience building enterprise platforms, on-device ML systems, cloud-native infrastructure, and developer tooling
+- Creator of [Sentinel](https://github.com/krishpinto/Sentinel) — on-device Android scam detection, sub-200ms ML inference, no cloud dependency — **1st Place, Hack4Innovation VesIT (1,700+ participants)**
+- Author of [artemis-cli](https://github.com/krishpinto/artemis) — Kubernetes-native infrastructure CLI — **1,500+ npm downloads**
+- Vice Chairperson, AIDL Club @ FCRIT · Co-organized HackQuinox 2.0 (800+ participants, mentored 300+ students)
 
-<div align="center" style="margin: 40px 0;">
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="middle" align="center">
-        <div style="padding: 30px; border: 2px solid #333; border-radius: 15px; background: #0d1117;">
-          <p style="margin: 20px 0; font-size: 18px;">Let's stay connected across platforms!</p>
-          <div align="center">
-            <a href="https://www.linkedin.com/in/krish-pinto-982ab41ba" target="_blank" style="margin: 0 15px;">
-              <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"/>
-            </a>
-            <a href="https://www.instagram.com/krishpint0/" target="_blank" style="margin: 0 15px;">
-              <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50"/>
-            </a>
-            <a href="https://x.com/krishpint0" target="_blank" style="margin: 0 15px;">
-              <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="50"/>
-            </a>
-          </div>
-        </div>
-      </td>
-      <td width="50%" valign="middle" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" width="400"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Connect Section -->
-<h3 align="center">Let's Build Something Amazing Together</h3>
-
-<p align="center">
-Ready to collaborate on your next project? Let's connect and turn ideas into reality.
-</p>
-
-<br>
+<!-- Incoming SDE Intern @ Infinity Pool (July 2026) -->
 
 ---
 
-<!-- Footer Banner -->
+## Stack
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,tailwind,threejs,nodejs,express,fastapi,postgres,mongodb,redis,docker,kubernetes,aws,gcp,git,githubactions" />
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Footer Banner"/>
+
+[krishpinto.co.in](https://www.krishpinto.co.in) · [LinkedIn](https://www.linkedin.com/in/krish-pinto-982ab41ba) · [X](https://x.com/krishpint0)
+
 </div>
