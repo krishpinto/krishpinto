@@ -6,7 +6,8 @@ CE undergrad · Full-Stack · Cloud Systems · I build things and ship them.
 
 ---
 
-I build full-stack products, on-device ML systems, and developer tooling. Won Hack4Innovation against 1,700+ participants with Sentinel — a zero-cloud Android scam detector. Currently shipping LetterStack, an email marketing platform with live client interest.
+B.tech Final-year Computer Engineering student building AI-powered, full-stack systems end to end - 1,500+ npm downloads, 2 published papers, 1st place
+among 1,700+ at Hack4Innovation. Currently architecting agentic workflows in fintech.
 
 **stack**
 
