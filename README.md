@@ -17,11 +17,11 @@ I build full-stack products, on-device ML systems, and developer tooling. Won Ha
 **selected builds**
 
 ```
-→ Sentinel       on-device scam detection · sub-200ms inference · no cloud · 1st Place Hack4Innovation (1,700+ participants)
+→ Grasp          passive local zero-API memory for AI coding agents · on-device embeddings · 3D memory graph · Rust + Tauri
+→ LetterStack    email marketing platform with a paying client · SES send pipeline · 3,000 recipients in ~4 min
 → artemis-cli    Kubernetes-native infra CLI · spins up DB clusters from declarative manifests · 1,500+ npm downloads
-→ WidgetForge    embeddable AI chatbot generator · BYOK · Shadow DOM isolation · OpenAI · Gemini · Anthropic · Grok
-→ Lumeo          smart event planning platform · full-stack · real-time sync
-→ LetterStack    email marketing & lead gen platform · live client interest via CIBA · in active development
+→ Sentinel       on-device scam detection · sub-200ms inference · no cloud · 1st Place Hack4Innovation (1,700+ participants)
+→ Lumeo          AI event planning platform · LLM workflow generation · ~99.5% uptime
 ```
 
 → more on [LinkedIn](https://www.linkedin.com/in/krish-pinto/)
