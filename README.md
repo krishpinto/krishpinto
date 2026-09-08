@@ -31,6 +31,7 @@ among 1,700+ at Hack4Innovation. Currently architecting agentic workflows in fin
 
 **work**
 
+- Sponsored @ InfinityPool Finnotech — Marketing Agent
 - Junior Software Engineer @ SVIK Infotech — full-stack enterprise platforms
 - SDE Intern @ BOBST India — Power Apps · Power Automate · Power BI · enterprise workflow systems
 - Vice Chairperson, AIDL Club @ FCRIT — co-organized HackQuinox 2.0 (800+ participants, mentored 300+ students)
